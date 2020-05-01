@@ -1,112 +1,245 @@
-Title,Code,Country,Latitude,Longitude,Elevation,Style,Direction,Length,Frequency,Description
-"Front Royal","FRR",US,3855.050N,07815.200W,704ft,5,087,3007ft,123.000,"Start Point, Finish Point, Turn Point, FRR, 123.0 A75, RW width: 75, AWOS: 121.85, UNICOM: 123.0, Fuel: 100LL"
-"Meneka Peak","MENEKAPK",US,3856.967N,07820.083W,2386ft,7,,,,"Turn Point, MtnPeak"
-"Little Crease Peak","LTTLCRSP",US,3853.317N,07820.317W,2261ft,7,,,,"Turn Point, MtnPeak"
-"Dickey Hill","DICKEHLL",US,3851.267N,07812.333W,2452ft,9,,,,"Turn Point, LindenVOR"
-"Signal Knob","SIGNLKNB",US,3857.617N,07819.867W,2111ft,7,,,,"Turn Point, Shack/Tower"
-"Power Plant","PWR.PLNT",US,3858.217N,07810.667W,584ft,15,,,,"Turn Point, PowerPlant"
-"Strasburg Reservoir","STRSBRGR",US,3856.717N,07821.300W,1445ft,12,,,,"Turn Point, Reservoir"
-"Rt55 Bridge Strasburg","RT55BRGS",US,3858.617N,07820.200W,487ft,14,,,,"Turn Point, HwyBridge"
-"Intx 81 66","X 81 66",US,3900.600N,07817.867W,650ft,17,,,,"Turn Point, Interchange"
-"Chester Gap","CHESTRGP",US,3851.717N,07807.833W,1339ft,6,,,,"Turn Point, MtnPass"
-"Fairgrounds Water Tower","FRGRNDSW",US,3900.333N,07809.717W,628ft,11,,,,"Turn Point, WaterTower"
-"Strasburg Quarry North","STRSBRGQ",US,3902.033N,07818.300W,693ft,15,,,,"Turn Point, Buildings"
-"Middletown Truckstop","MDDLTWNT",US,3902.900N,07814.233W,720ft,17,,,,"Turn Point, Truckstop"
-"River Bend","VA58",US,3854.367N,07826.667W,606ft,2,140,2650ft,,"Private, Turn Point, VA58, P14/32 G60, RW width: 60"
-"Hogback Mountain","HGBCKMTN",US,3845.717N,07816.467W,3474ft,7,,,,"Turn Point, MtnPeak"
-"Woodstock Tower","WDSTCKTW",US,3852.233N,07826.933W,1850ft,7,,,,"Turn Point, RadioTower"
-"Mulberry Run","VA17",US,3902.150N,07823.533W,820ft,2,060,2000ft,,"Private, Turn Point, VA17, P06/24 G75, RW width: 75"
-"Stephens City Intx","STPHNSCX",US,3904.900N,07812.933W,726ft,17,,,,"Turn Point, Interchange"
-"White Post Water Tower","WHTPSTWT",US,3903.633N,07805.917W,632ft,11,,,,"Turn Point, WaterTower"
-"White Post","3VA7",US,3903.750N,07805.483W,610ft,2,040,2000ft,,"Private, Turn Point, 3VA7, P04/22 G75, RW width: 75"
-"Winchester Water Tower","WNCHSTRW",US,3906.883N,07811.617W,762ft,11,,,,"Turn Point, WaterTower"
-"Woodstock Water Tower","WDSTCKWT",US,3853.650N,07830.867W,933ft,11,,,,"Turn Point, WaterTower"
-"Karmys","67VA",US,3850.250N,07831.167W,890ft,2,040,1800ft,,"Private, Turn Point, 67VA, P04/22 G30, RW width: 30"
-"Hepner","4VA4",US,3856.083N,07832.400W,1150ft,2,070,2000ft,,"Private, Turn Point, 4VA4, P07/25 G75, RW width: 75"
-"Rt50 Bridge","RT50 BRG",US,3902.483N,07759.967W,414ft,14,,,,"Turn Point, HwyBridge"
-"Burner","VG55",US,3852.917N,07833.467W,965ft,2,030,3100ft,,"Private, Turn Point, VG55, P03/21 G100, RW width: 100"
-"Winchester","OKV",US,3908.617N,07808.667W,726ft,5,134,5498ft,122.700,"Turn Point, OKV, 122.7 A100, RW width: 100, AWOS: 124.85, UNICOM: 122.7, Fuel: 100LL"
-"Thornton Gap","THRNTNGP",US,3839.650N,07819.233W,2291ft,6,,,,"Turn Point, MtnPass"
-"Longs","VA32",US,3848.250N,07834.317W,870ft,2,360,2100ft,,"Private, Turn Point, VA32, PN/SG75, RW width: 75"
-"Ayres-Aicp","3VA0",US,3846.550N,07754.633W,530ft,2,180,1200ft,,"Private, Turn Point, 3VA0, P18/36 G50, RW width: 50"
-"Upperville","2VG2",US,3858.300N,07752.183W,551ft,5,305,5100ft,122.725,"Private, Turn Point, 2VG2, PNW/SEA100, RW width: 100, UNICOM: 122.725"
-"Ayers","VA93",US,3854.300N,07839.283W,1340ft,2,010,2100ft,,"Private, Turn Point, VA93, P01/19G100, RW width: 100"
-"Luray Caverns","LUA",US,3840.017N,07830.033W,903ft,5,035,3125ft,122.800,"Turn Point, KLUA, 122.8 A75, RW width: 75, AWOS: 118.275, UNICOM: 122.8, Fuel: 100LL"
-"Pickles","01VA",US,3907.500N,07755.500W,500ft,2,030,1500ft,,"Private, Turn Point, 01VA, P03/21 G60, RW width: 60"
-"Stony Man Peak","STONMNPK",US,3835.867N,07822.333W,4011ft,7,,,,"Turn Point, MntPeak"
-"Fox Acres","15VA",US,3843.333N,07753.983W,450ft,2,020,1950ft,,"Private, Turn Point, 15VA, P02/20G125, RW width: 125"
-"Rt7 Bridge","RT7 BRG",US,3907.467N,07753.483W,375ft,14,,,,"Turn Point, HwyBridge"
-"High View Farm","61VA",US,3914.117N,07800.717W,595ft,2,030,3000ft,,"Private, Turn Point, 61VA, P03/21G150, RW width: 150"
-"Franwood Farms","9VA4",US,3841.450N,07837.767W,990ft,2,030,1550ft,,"Private, Turn Point, 9VA4, P03/21G90, RW width: 90"
-"Snickers Gap","SNCKRSGP",US,3906.950N,07750.733W,1067ft,6,,,,"Turn Point, MtnPass"
-"Al's Field","48VA",US,3917.433N,07821.050W,1120ft,2,030,1500ft,,"Private, Turn Point, 48VA, P03/21G50, RW width: 50"
-"The Meadows","3VA1",US,3846.450N,07747.983W,584ft,2,060,2100ft,,"Private, Turn Point, 3VA1, P06/24G125, RW width: 125"
-"Timber Ridge Airpark","VA46",US,3917.767N,07821.733W,1024ft,2,090,2700ft,,"Private, Turn Point, VA46, P09/27D80, RW width: 80"
-"GogosGap","GOGOSGAP",US,3838.583N,07836.733W,1813ft,6,,,,"Turn Point, MtnPass"
-"Truckstop Intx","TRCKSTPX",US,3917.450N,07805.083W,640ft,17,,,,"Turn Point, I-81 Intx"
-"Sky Bryce","VG18",US,3848.950N,07846.217W,1263ft,5,050,2240ft,,"Private, Turn Point, VG18, P05/23A50, RW width: 50"
-"River's Edge Farm","38WV",US,3919.517N,07825.533W,810ft,2,060,1800ft,,"Private, Turn Point, 38WV, P06/24G50, RW width: 50"
-"New Market","8W2",US,3839.367N,07842.517W,963ft,5,060,2920ft,122.800,"Turn Point, 8W2, 122.8 A60, RW width: 60, AWOS: 118.175, UNICOM: 122.8, Fuel: 100LL"
-"Jucapa Farms","9VG9",US,3922.333N,07818.267W,1160ft,2,160,1500ft,,"Private, Turn Point, 9VG9, P16/34G70, RW width: 70"
-"Skyline Wave Window (Center)","SKLNWVWN",US,3844.500N,07848.000W,1466ft,7,,,,"Turn Point, Center5nmRad"
-"Ridge Silver Cut","RDGSLVRC",US,3834.733N,07839.617W,2467ft,7,,,,"Turn Point, SilverCut"
-"Michaels Farms","WV17",US,3923.600N,07809.350W,510ft,2,010,2000ft,,"Private, Turn Point, WV17, P01/19G60, RW width: 60"
-"Krens Farm","14VA",US,3913.733N,07744.800W,790ft,2,010,1900ft,,"Private, Turn Point, 14VA, P01/19G50, RW width: 50"
-"Lost Mountain","WV06",US,3917.100N,07844.300W,1960ft,2,020,2650ft,,"Private, Turn Point, WV06, P02/20G50, RW width: 50"
-"Martinsburg","MRB",US,3924.117N,07759.083W,565ft,5,071,7815ft,124.300,"Turn Point, MRB, 124.3 A150, RW width: 150, AWOS: 119.925, Tower: 124.3, UNICOM: 122.95, Fuel: 100LL"
-"Warrenton-Fauquier","HWY",US,3835.183N,07742.633W,336ft,5,139,5000ft,122.700,"Turn Point, HWY, 122.7 A100, RW width: 100, AWOS: 120.35, UNICOM: 122.7, Fuel: 100LL"
-"Needwood Farm","WV21",US,3919.833N,07747.683W,440ft,2,020,2000ft,,"Private, Turn Point, WV21, P02/20G75, RW width: 75"
-"Buzzards Gap","WV61",US,3928.167N,07814.133W,960ft,2,030,1000ft,,"Private, Turn Point, WV61, P03/21G50, RW width: 50"
-"Leesburg","JYO",US,3904.683N,07733.450W,389ft,5,161,5500ft,122.975,"Turn Point, JYO, 122.975A100, RW width: 100, AWOS: 125.225, UNICOM: 122.975, Fuel: 100LL"
-"The Grass Patch","VA62",US,3915.550N,07739.433W,530ft,2,050,2200ft,,"Private, Turn Point, VA62, P05/23G75, RW width: 75"
-"HarpersFerry","HRPRSFRR",US,3919.367N,07743.633W,265ft,14,,,,"Turn Point, RiverIntx"
-"Ridge 10K Waypoint","RDG10KWP",US,3828.250N,07843.117W,3208ft,7,,,,"Turn Point, MtnPeak"
-"Scott Airpark","VA61",US,3915.833N,07739.433W,529ft,2,010,3000ft,,"Private, Turn Point, VA61, P01/19G50, RW width: 50"
-"Eastview","WV67",US,3923.683N,07840.767W,1590ft,2,040,1800ft,,"Private, Turn Point, WV67, P04/22G18, RW width: 18"
-"LairdsKnob","LARDSKNB",US,3826.900N,07843.817W,3286ft,7,,,,"Turn Point, MicrowaveTwr"
-"Joe's Creek","2VG3",US,3832.933N,07852.300W,1350ft,2,050,1400ft,,"Private, Turn Point, 2VG3, P05/23G75, RW width: 75"
-"Massanutten","MASSNTTN",US,3823.567N,07846.200W,2928ft,7,,,,"Turn Point, SkiArea"
-"Penn-Laird Water Tank","PNNLRDWT",US,3823.533N,07847.283W,1701ft,11,,,,"Turn Point, WaterTank"
-"Heaven's Landing","4WV4",US,3910.200N,07903.700W,1220ft,2,060,2000ft,,"Private, Turn Point, 4WV4, P06/24G60, RW width: 60"
-"Orange County VA","OMH",US,3814.833N,07802.733W,465ft,5,066,3200ft,122.800,"Turn Point, OMH, 122.8 A75, RW width: 75, AWOS: 118.075, UNICOM: 122.8, Fuel: 100LL"
-"Frank Field","VA52",US,3829.100N,07856.717W,1650ft,5,060,1800ft,,"Private, Turn Point, VA52, P06/24A30, RW width: 30"
-"Grant County","W99",US,3859.700N,07908.750W,963ft,5,122,5000ft,122.800,"Turn Point, W99, 122.8 A75, RW width: 75, AWOS: 124.475, UNICOM: 122.8, Fuel: 100LL"
-"Gordonsville Muni","GVE",US,3809.367N,07809.950W,454ft,5,038,2300ft,123.000,"Turn Point, GVE, 123.0 A40, RW width: 40, AWOS: 120.225, UNICOM: 123.0"
-"Miller Field","WV18",US,3924.500N,07900.817W,1050ft,2,150,1700ft,,"Private, Turn Point, WV18, P15/33G130, RW width: 130"
-"Gerstell Farms","WV15",US,3929.000N,07855.583W,700ft,2,090,2300ft,,"Private, Turn Point, WV15, P09/27G90, RW width: 90"
-"Potomac Airpark","W35",US,3941.550N,07809.967W,412ft,5,100,4985ft,122.800,"Turn Point, W35, 122.8 A70, RW width: 70, CTAF: 122.9"
-"Bridgewater Air Park","VBW",US,3822.000N,07857.617W,1165ft,5,143,2745ft,122.700,"Turn Point, VBW, 122.7 A60, RW width: 60, AWOS: 119.55, UNICOM: 122.7, Fuel: 100LL"
-"Mexico Farms","1W3",US,3936.317N,07845.650W,607ft,2,090,2120ft,122.800,"Turn Point, 1W3, 122.8 G190, RW width: 190, UNICOM: 122.8"
-"Charlottesville-Albemarle","CHO",US,3808.317N,07827.167W,639ft,5,022,6001ft,124.500,"Turn Point, CHO, 124.500A150, RW width: 150, AWOS: 118.425, ATIS: 118.425, Tower: 124.5, UNICOM: 122.95, Fuel: 100LL"
-"Trayfoot Mountain","TRAFTMTN",US,3813.417N,07845.050W,3374ft,7,,,,"Turn Point, MtnPeak"
-"Cumberland","CBE",US,3936.917N,07845.650W,775ft,5,039,5048ft,122.800,"Turn Point, CBE, 122.8 A150, RW width: 150, AWOS: 128.625, UNICOM: 122.8, Fuel: 100LL"
-"Shenandoah Valley","SHD",US,3815.833N,07853.783W,1201ft,5,038,6002ft,123.000,"Turn Point, SHD, 123.0 A150, RW width: 150, AWOS: 124.925, UNICOM: 123.0, Fuel: 100LL"
-"Frederick Muni","FDK",US,3925.050N,07722.450W,303ft,5,040,5220ft,122.725,"Turn Point, FDK, 122.725A100, RW width: 100, AWOS: 124.875, ATIS: 124.875, Tower: 132.4, UNICOM: 122.725, Fuel: 100LL"
-"Hagerstown Rgnl","HGR",US,3942.517N,07743.583W,703ft,5,080,7000ft,120.300,"Turn Point, HGR, 120.3 A150, RW width: 150, AWOS: 126.375, Tower: 120.3, UNICOM: 122.95, Fuel: 100LL"
-"Root Field","82VA",US,3810.383N,07858.150W,1290ft,2,100,2200ft,,"Private, Turn Point, 82VA, P10/28G100, RW width: 100"
-"Louisa County","LKU",US,3800.583N,07758.200W,493ft,5,082,4300ft,122.725,"Turn Point, LKU, 122.725A100, RW width: 100, AWOS: 119.475, UNICOM: 122.725, Fuel: 100LL"
-"JJ and PK","PA08",US,3947.600N,07746.683W,542ft,2,360,1750ft,,"Private, Turn Point, PA08, PN/SG150, RW width: 150"
-"Cumberland Valley Airstrip","PA66",US,3949.000N,07743.567W,550ft,2,090,1800ft,,"Private, Turn Point, PA66, P09/27G150, RW width: 150, Fuel: 80"
-"Bittner/Whitsel","BTTNRWHT",US,3944.567N,07731.617W,760ft,2,030,1400ft,,"Turn Point, PN58, P03/21G100, RW width: 100"
-"Eagle's Nest","W13",US,3804.617N,07856.650W,1436ft,5,060,2004ft,123.050,"Turn Point, W13, 123.05 A50, RW width: 50, AWOS: 118.625, UNICOM: 123.05, Fuel: 100LL"
-"RockfishGap","RCKFSHGP",US,3801.950N,07851.583W,2000ft,6,,,,"Turn Point, MtnPass"
-"Garrett County","2G4",US,3934.850N,07920.150W,2933ft,5,079,5000ft,123.000,"Turn Point, 2G4, 123.0 A75, RW width: 75, AWOS: 120.125, UNICOM: 123.0, Fuel: 100LL"
-"Mid Atlantic Soaring Center","W73",US,3945.417N,07721.083W,573ft,5,150,2700ft,122.900,"Turn Point, W73, 122.9 A50, RW width: 50, CTAF: 122.9"
-"Five Lakes","PA81",US,3954.767N,07731.967W,819ft,2,110,2300ft,,"Private, Turn Point, PA81, P11/29G100, RW width: 100"
-"Franklin County Rgnl","N68",US,3958.383N,07738.600W,697ft,5,048,3300ft,122.800,"Turn Point, N68, 122.8 A75, RW width: 75, CTAF: 122.9"
-"Bedford County","HMZ",US,4005.167N,07830.817W,1162ft,5,127,5005ft,122.700,"Turn Point, HMZ, 122.7 A75, RW width: 75, AWOS: 123.675, UNICOM: 122.7, Fuel: 100LL"
-"Carroll County Rgnl","DMW",US,3936.500N,07700.467W,789ft,5,148,5100ft,122.700,"Turn Point, DMW, 122.7 A100, RW width: 100, AWOS: 121.25, UNICOM: 122.7, Fuel: 100LL"
-"Gettysburg Rgnl","W05",US,3950.483N,07716.483W,590ft,5,060,3100ft,122.800,"Turn Point, W05, 122.8 A60, RW width: 60, CTAF: 122.9"
-"Hanover County Muni","OFP",US,3742.533N,07726.200W,207ft,5,150,5402ft,122.700,"Turn Point, OFP, 122.7 A100, RW width: 100, AWOS: 119.025, UNICOM: 122.7, Fuel: 100LL"
-"Altoona-Blair County","AOO",US,4017.783N,07819.200W,1503ft,5,016,5465ft,123.600,"Turn Point, AOO, 123.6 A100, RW width: 100, AWOS: 127.125, UNICOM: 123.0, CTAF: 123.6, Fuel: 100LL"
-"Twin River","VA63",US,3740.767N,07925.217W,720ft,2,060,3000ft,,"Private, Turn Point, VA63, P06/24G40, RW width: 40"
-"Merlin Aerodrome","2VA3",US,3718.900N,07751.967W,235ft,2,140,3200ft,,"Private, Turn Point, 2VA3, P14/32G100, RW width: 100"
-"Springwood Gliderport","08VA",US,3733.233N,07944.983W,1000ft,2,090,1800ft,,"Private, Turn Point, 08VA, P09/27G50, RW width: 50"
-"Mifflin County","RVL",US,4040.650N,07737.617W,819ft,5,049,5001ft,122.700,"Turn Point, RVL, 122.7 A75, RW width: 75, AWOS: 123.85, UNICOM: 122.7, Fuel: 100LL"
-"Fincastle","VA83",US,3731.333N,07951.117W,1140ft,2,110,3039ft,,"Private, Turn Point, VA83, P11/29G150, RW width: 150"
-"Eagle Field","09PA",US,4049.617N,07759.283W,1780ft,2,060,2300ft,,"Private, Turn Point, 09PA, P06/24G200, RW width: 200"
-"Ridge Soaring","79N",US,4053.033N,07754.433W,815ft,5,070,3322ft,122.900,"Turn Point, 79N, 122.9 A150, RW width: 150, CTAF: 122.9, Fuel: 100LL"
-"New Castle Intl","VA85",US,3729.000N,08005.983W,1320ft,2,180,2400ft,,"Private, Turn Point, VA85, P18/36G100, RW width: 100"
-"Garner","3VA8",US,3651.383N,07640.933W,80ft,2,360,2600ft,,"Private, Turn Point, 3VA8, PN/SG75, RW width: 75"
-"Blacksburg Virginia Tech","BCB",US,3712.450N,08024.467W,2132ft,5,117,4539ft,123.050,"Turn Point, BCB, 123.050A100, RW width: 100, AWOS: 133.325, UNICOM: 123.05, Fuel: 100LL"
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
+"Airville",AIRVILLE,US,3949.933N,07624.417W,208.5m,1,,,,"Turn Point, #1",,
+"Albrecht",MD48,US,3928.400N,07630.017W,99.1m,2,130,640.1m,"124.925","Private, MD48, RW width: 60",,
+"Al's",48VA,US,3917.433N,07821.050W,341.4m,2,30,487.7m,"124.850","Private, 48VA, RW width: 80",,
+"Altoona-Blair",AOO,US,4017.783N,07819.200W,458.4m,5,26,1666.0m,"123.600","AOO, RW width: 100, UNICOM: 123.0, CTAF: 123.6, Fuel: 100LL",,"N080W079_altoona.png"
+"Armacost Farms",ARMCSTFR,US,3936.200N,07644.667W,198.1m,0,,,,"RW width: 70",,
+"Aux Finish",W05,US,3950.317N,07716.733W,179.8m,5,61,944.9m,"122.800","Finish Point, #96, W05, 06/24 31A, RW width: 60, CTAF: 122.9",,
+"Ayers",VA93,US,3854.333N,07839.283W,408.4m,2,10,640.1m,,"Turn Point, #100, Private, VA93, 01/19 21T, RW width: 100",,"N077W079_ayres.png"
+"Baney's",0P8,US,4001.033N,07649.183W,143.3m,2,47,609.6m,"122.900","Private, 90PN, RW width: 100, CTAF: 122.9",,
+"Barnes",MD47,US,3919.967N,07705.817W,237.7m,2,130,731.5m,"128.275","Private, MD47, RW width: 75",,
+"Baublitz Commercial",9W8,US,3951.133N,07629.183W,228.6m,2,100,670.6m,"122.900","9W8, RW width: 100, CTAF: 122.9, Fuel: 100LL",,
+"Baugher's Orchard",07MD,US,3936.500N,07703.117W,213.4m,2,10,304.8m,"121.250","Private, 07MD, RW width: 70",,
+"Beaver Springs",77PN,US,4046.583N,07712.983W,195.7m,5,100,1371.6m,"123.850","Private, PA39, RW width: 100",,
+"Beavertown",BEAVRTWN,US,4043.617N,07707.450W,743.1m,1,,,,"Turn Point, #2",,
+"Bedford",HMZ,US,4005.117N,07830.733W,353.9m,5,136,1253.6m,"122.700","HMZ, RW width: 75, UNICOM: 122.7, Fuel: 100LL",,
+"Beers Farm",PN73,US,4013.800N,07755.233W,192.0m,2,80,609.6m,,"Private, PN73, RW width: 100",,
+"Bell",MD12,US,3938.183N,07717.567W,112.8m,2,20,640.1m,"121.250","Private, MD12, RW width: 60",,
+"Bellefonte",N96,US,4053.133N,07748.983W,326.4m,5,66,1092.7m,"122.800","N96, RW width: 60, UNICOM: 122.8, Fuel: 100LL",,
+"Bendigo",74N,US,4033.517N,07633.567W,241.1m,5,53,708.7m,"122.900","74N, RW width: 60, CTAF: 122.9",,
+"Ben's Landing",BNSLNDNG,US,3957.533N,07702.983W,167.6m,0,,,,"RW width: 100",,
+"Bermudian Valley",07N,US,4001.000N,07700.233W,143.3m,2,160,670.6m,"122.800","07N, RW width: 100, CTAF: 122.9",,
+"Biglerville",BIGLRVLL,US,3956.117N,07714.817W,207.3m,1,,,,"Turn Point, #3",,
+"Bittner/Whitsel",BTTNRWHT,US,3944.567N,07731.617W,231.6m,0,,,,"RW width: 100",,
+"Bluemont Gap",BLUMNTGP,US,3907.217N,07751.317W,281.9m,1,,,,"Turn Point, #4",,
+"Botsford",6PA5,US,4006.800N,07727.250W,187.5m,2,40,731.5m,,"Private, 6PA5, RW width: 30",,
+"Bowtie",PA51,US,3954.500N,07712.317W,170.7m,2,50,640.1m,,"Private, PA51, RW width: 100",,
+"Breezewood",BREEZEWD,US,3959.117N,07814.617W,378.0m,1,,,,"Turn Point, #5",,
+"Brookside Farms",BRKSDFRM,US,4018.950N,07641.150W,149.0m,0,,,,"RW width: 100",,
+"Browns",BROWNS,US,3949.000N,07715.983W,160.0m,0,,,,"RW width: 200",,
+"Burhans",3MD0,US,3920.883N,07720.167W,149.4m,5,120,792.5m,"122.800","Private, 3MD0, RW width: 24, UNICOM: 122.8",,
+"Burner Field",VG55,US,3852.917N,07833.467W,294.1m,2,30,944.9m,,"Turn Point, #114, Private, VG55, 03/21 31T, RW width: 100",,
+"Burnt Cabins",BRNTCBNS,US,4005.000N,07752.217W,285.9m,1,,,,"Turn Point, #6",,
+"Buzzards Gap",WV61,US,3928.167N,07814.133W,292.6m,3,30,304.8m,,"Private, Ultralight Field, WV61, RW width: 50",,
+"Capital City",CXY,US,4013.033N,07651.083W,105.8m,5,82,1524.3m,"119.500","CXY, RW width: 150, ATIS: 134.95, Tower: 119.5, UNICOM: 122.95, Fuel: 100LL",,
+"Captain's Folly",CPTNSFLL,US,3950.600N,07709.883W,195.4m,0,,,,"RW width: 55",,
+"Carlisle",N94,US,4011.300N,07710.867W,155.4m,5,102,1221.6m,"122.800","Turn Point, #7, N94, 10/28 40A, RW width: 40, UNICOM: 122.8, Fuel: 100LL",,
+"Carroll County",DMW,US,3936.167N,07700.150W,240.5m,5,159,1554.5m,"122.700","Turn Point, #8, DMW, 16/34 51A, RW width: 100, UNICOM: 122.7, Fuel: 100LL",,
+"Carsonville",0PS3,US,4029.417N,07646.000W,243.8m,2,60,387.7m,,"Private, 0PS3, RW width: 100",,
+"Centre",N16,US,4048.700N,07739.433W,398.4m,2,60,944.9m,"122.900","N16, RW width: 210, UNICOM: 122.7",,
+"Chambersburg",N68,US,3958.383N,07738.600W,212.4m,5,59,1005.8m,"122.800","N68, RW width: 75, CTAF: 122.9",,
+"Charlottsville",CHO,US,3808.317N,07827.167W,194.8m,5,30,1828.8m,"124.500","Private, CHO, RW width: 150, ATIS: 118.425, Tower: 124.5, UNICOM: 122.95, Fuel: 100LL",,
+"Chestnut Hill",5PS5,US,4023.800N,07704.450W,189.0m,2,70,518.2m,,"Private, 5PS5, RW width: 100",,
+"Circle W",PA72,US,3957.517N,07658.250W,140.2m,2,150,670.6m,,"Private, PA72, RW width: 100",,
+"Clearview",2W2,US,3928.117N,07701.217W,243.5m,5,136,560.8m,"122.800","Turn Point, #9, 2W2, 14/32 18A, RW width: 30, UNICOM: 122.8, Fuel: 100LL",,
+"Cohen",COHEN,US,3944.167N,07556.617W,127.4m,0,,,,"RW width: 100",,
+"Culpeper",CJR,US,3831.533N,07751.583W,96.3m,5,38,1524.0m,"123.075","Private, CJR, RW width: 100, UNICOM: 123.075, Fuel: 100LL",,
+"Cumberland Regional WV",CBE,US,3936.917N,07845.650W,236.2m,5,49,1538.6m,"122.800","CBE, RW width: 150, UNICOM: 122.8, Fuel: 100LL",,
+"Cumberland Valley",CMBRLNDV,US,3949.000N,07743.567W,167.6m,0,,,,"RW width: 150",,
+"D.Evans Farm",PA73,US,3958.767N,07632.167W,160.0m,2,180,426.7m,,"Private, PA73, RW width: 100",,
+"Davis",W50,US,3914.667N,07708.917W,192.0m,2,80,611.1m,"122.800","W50, RW width: 25, UNICOM: 122.8, Fuel: 100LL",,
+"Deck",9D4,US,4021.100N,07619.783W,159.1m,5,363,1077.8m,"122.800","9D4, RW width: 50, UNICOM: 122.8, Fuel: 100LL",,
+"Dee Jay",8PA1,US,4024.500N,07630.233W,153.9m,2,90,548.6m,"127.575","Private, 8PA1, RW width: 125",,
+"Deitch",41PA,US,4015.467N,07704.883W,128.0m,2,160,388.9m,,"Private, 41PA, RW width: 100",,
+"Donegal Springs",N71,US,4005.517N,07634.800W,139.6m,5,94,990.6m,"122.800","Turn Point, #10, N71, 10/28 33A, RW width: 50, UNICOM: 122.8, Fuel: 100LL",,
+"Draco",84PN,US,3945.150N,07632.133W,190.5m,2,70,152.4m,,"Turn Point, #11, Private, 84PN, 07/25 5T, RW width: 30",,
+"Drillmore Acres",0PN7,US,4007.700N,07737.883W,207.3m,2,130,853.4m,,"Private, 0PN7, RW width: 100",,
+"Dutch Country Egg Farms",PS35,US,4027.483N,07627.483W,167.6m,2,90,731.5m,"127.575","Private, PS35, RW width: 200",,
+"Eagle",09PA,US,4049.617N,07759.283W,542.5m,2,60,701.0m,"127.525","Private, 09PA, RW width: 200",,
+"Eagles Nest",W13,US,3804.617N,07856.650W,437.7m,5,60,609.6m,"123.050","Turn Point, #106, W13, 06/24 50AT, RW width: 60, UNICOM: 123.05, Fuel: 100LL",,
+"Ecko",ECKO,US,4014.250N,07643.483W,115.8m,0,,,,"RW width: 100",,
+"Egolf",2PA7,US,4020.000N,07717.983W,185.9m,2,315,396.2m,,"Private, 2PA7, RW width: 40",,
+"Elkton VA",ELKTONVA,US,3825.750N,07838.400W,289.9m,0,,,,"RW width: 60",,
+"Fairfield",W73,US,3945.267N,07720.900W,174.7m,5,150,823.0m,"122.900","Turn Point, #12, W73, 15/33 27A, RW width: 50, CTAF: 123.3",,
+"Fairview Farm",PS20,US,4032.000N,07627.733W,182.9m,2,160,609.6m,"127.575","Private, PS20, RW width: 100",,
+"Farmers Pride",9N7,US,4026.567N,07626.500W,150.9m,2,100,1039.4m,"122.900","9N7, RW width: 150, CTAF: 122.9, Fuel: 100LL",,
+"Farmington",FARMNGTN,US,3940.583N,07602.217W,135.6m,0,,,,"RW width: 75",,
+"Finish",FRR,US,3855.333N,07816.133W,216.1m,4,97,916.5m,"123.000","Finish Point, #99, FRR, 10/28 35A, RW width: 75, UNICOM: 123.0, Fuel: 100LL",,
+"Five Lakes",PA81,US,3954.817N,07732.183W,249.6m,2,110,701.0m,,"Turn Point, #13, Private, PA81, 11/29 23T, RW width: 100",,
+"Flying Circus",3VA3,US,3833.017N,07742.950W,96.0m,2,160,762.0m,,"Private, 3VA3, RW width: 150",,
+"Flying Eagle",PS21,US,4038.750N,07648.733W,201.2m,2,80,563.9m,"119.175","Private, PS21, RW width: 100",,
+"Flying M Farms",FLNGMFRM,US,3915.583N,07720.483W,179.8m,0,,,,"RW width: 50",,
+"Flying R",PN35,US,4000.000N,07804.983W,292.6m,2,50,487.7m,,"Private, PN35, RW width: 50",,
+"Fox Acres",15VA,US,3843.333N,07753.983W,137.2m,2,20,594.4m,,"Private, 15VA, RW width: 125",,
+"Frank Field",VA52,US,3829.100N,07856.717W,502.9m,5,60,548.6m,,"Private, VA52, RW width: 30",,
+"Franwood Farm",9VA4,US,3841.467N,07837.767W,301.8m,2,30,487.7m,,"Turn Point, #111, Private, 9VA4, 03/21 16T, RW width: 75",,
+"Frederick",FDK,US,3924.600N,07722.850W,92.4m,5,48,1591.1m,"122.725","Turn Point, #14, FDK, 05/23 52A, RW width: 100, ATIS: 124.875, Tower: 132.4, UNICOM: 122.95, Fuel: 100LL",,
+"Front Royal",FRR,US,3855.033N,07815.217W,216.1m,4,97,944.9m,"123.000","Start Point, Turn Point, #15, FRR, 10/28 35A, RW width: 75, UNICOM: 123.0, Fuel: 100LL",,
+"Frymoyer",FRYMOYER,US,4037.833N,07700.617W,158.5m,0,,,,"RW width: 100",,
+"Gettysburg",W05,US,3950.317N,07716.733W,179.8m,5,61,944.9m,"122.800","Turn Point, #16, W05, 06/24 31A, RW width: 60, CTAF: 122.9",,
+"Gilbert",73PA,US,3955.767N,07646.250W,161.5m,2,40,676.7m,,"Private, 73PA, RW width: 125",,
+"Gilfert",77PN,US,4047.033N,07712.400W,192.0m,2,100,588.3m,,"Private, 77PN, RW width: 80",,
+"Glenair",MD46,US,3916.167N,07700.317W,179.8m,2,100,670.6m,"128.275","Private, MD46, RW width: 50",,
+"Gogos Gap",GOGOSGAP,US,3838.567N,07836.750W,551.1m,1,,,,"Turn Point, #103",,
+"Good Neighbor Farm",MD74,US,3928.450N,07711.717W,176.8m,2,20,640.1m,"124.875","Private, MD74, RW width: 75",,
+"Gordonsville Muni",GVE,US,3809.367N,07809.950W,138.4m,5,48,701.0m,"123.000","Private, GVE, RW width: 40, UNICOM: 123.0",,
+"Grand Canyon",N38,US,4143.667N,07723.783W,578.8m,5,99,1097.3m,"122.800","N38, RW width: 60, UNICOM: 122.8, Fuel: 100LL",,
+"Grant County",W99,US,3859.583N,07908.183W,292.9m,5,130,1524.0m,"122.800","Turn Point, #104, W99, 13/31 75A, RW width: 75, UNICOM: 122.8, Fuel: 100LL",,
+"Green Landings",WV22,US,3934.483N,07758.283W,155.4m,2,30,518.2m,,"Private, WV22, RW width: 100",,
+"Greer",MD20,US,3938.167N,07707.367W,158.5m,2,110,457.2m,"121.250","Private, MD20, RW width: 100",,
+"Gusler",PA74,US,4027.917N,07650.400W,213.4m,2,90,670.6m,,"Private, PA74, RW width: 100, Fuel: 100LL",,
+"Hagerstown",HGR,US,3942.467N,07743.767W,214.3m,5,91,1664.5m,"120.300","Turn Point, #17, HGR, 02/20 35A, RW width: 150, Tower: 120.3, UNICOM: 122.95, Fuel: 100LL",,
+"Hanover",HANOVER,US,3947.550N,07701.483W,170.7m,0,,,,"RW width: 100",,
+"Hanover Quarry",HANVRQRR,US,3949.750N,07701.617W,158.5m,1,,,,"Turn Point, #18",,
+"Happy Landings Farm",MD73,US,3927.500N,07708.883W,211.2m,2,45,762.0m,"124.875","Private, MD73, RW width: 50",,
+"Harman",0PS7,US,4031.333N,07650.733W,219.5m,2,80,579.1m,,"Private, 0PS7, RW width: 150",,
+"Harp",6MD3,US,3935.817N,07732.800W,414.5m,2,90,426.7m,"124.875","Private, 6MD3, RW width: 50",,
+"Harpers Ferry",HRPRSFRR,US,3919.483N,07743.850W,87.5m,1,,,,"Turn Point, #19",,
+"Harris",3PA8,US,3949.217N,07555.550W,175.3m,2,180,457.2m,"126.250","Private, 3PA8, RW width: 100",,
+"Harris Hill",4NY8,US,4207.250N,07654.067W,520.9m,4,160,339.9m,,"Private, 4NY8, RW width: 150",,
+"Harrisburg",MDT,US,4011.617N,07645.800W,94.5m,5,128,3048.3m,"124.800","MDT, RW width: 200, ATIS: 118.8, Tower: 124.8, 124.8, Fuel: 100LL",,
+"Harrison Farm",8MD5,US,3929.900N,07713.300W,185.9m,2,180,609.6m,"123.075","Private, 8MD5, RW width: 50, UNICOM: 123.075",,
+"Haunstein",0PA2,US,4019.000N,07707.483W,182.9m,3,110,152.4m,,"Private, Ultralight Field, 0PA2, RW width: 100",,
+"Haysfield",HAYSFILD,US,3914.283N,07656.800W,128.0m,0,,,,"RW width: 85",,
+"Heberlig",PS02,US,4009.850N,07722.233W,170.7m,2,90,685.8m,,"Turn Point, #20, Private, PS02, E/W 23T, RW width: 100",,
+"High Rock Overlook",HGHRCKVR,US,3941.900N,07731.817W,728.8m,1,,,,"Turn Point, #21",,
+"High View Farm",61VA,US,3914.117N,07800.717W,181.4m,2,30,914.4m,,"Turn Point, #113, Private, 61VA, 03/21 30T, RW width: 75",,
+"Hilling",PN64,US,4030.150N,07756.367W,426.7m,2,20,390.1m,"122.750","Private, PN64, RW width: 80",,
+"Hilltop",HILLTOP,US,4002.000N,07629.983W,182.9m,0,,,,"RW width: 100",,
+"Hoby Wolf",2MD5,US,3924.467N,07655.650W,182.9m,2,20,609.6m,"122.900","Private, 1W5, RW width: 60",,
+"Homan",47PA,US,4043.000N,07758.983W,365.8m,2,245,365.8m,"127.650","Private, 47PA, RW width: 100",,
+"Horst",3PA0,US,4023.000N,07627.983W,137.2m,2,90,609.6m,"127.575","Private, 3PA0, RW width: 100",,
+"Hostetler",0PA6,US,4037.850N,07751.017W,231.6m,2,45,548.6m,"123.850","Private, 0PA6, RW width: 100",,
+"Hostetter",HOSTETTR,US,3955.500N,07653.983W,152.4m,0,,,,"RW width: 100",,
+"Huntingdon",HUNTNGDN,US,4019.083N,07752.567W,170.7m,0,,,,"RW width: 80",,
+"Hurst",69PA,US,4020.567N,07612.567W,164.6m,2,80,335.3m,,"Private, 69PA, RW width: 80",,
+"Ijamsville",4MD8,US,3921.500N,07720.383W,149.4m,2,120,853.4m,"124.875","Private, 4MD8, RW width: 90",,
+"JJ & PK",PA08,US,3947.600N,07746.683W,165.2m,2,180,533.4m,,"Private, PA08, RW width: 150",,
+"Jucapa Farms",9VG9,US,3922.333N,07818.267W,353.6m,2,160,457.2m,"124.850","Private, 9VG9, RW width: 70",,
+"Kampel",2N5,US,4002.750N,07658.800W,185.9m,2,50,762.0m,"122.900","Turn Point, #22, 2N5, 05/23 25T, RW width: 100, CTAF: 122.9, Fuel: 100LL",,
+"Karlindo",3PN2,US,3945.533N,07720.850W,161.5m,2,150,365.8m,"121.250","Private, 3PN2, RW width: 100",,
+"Keller Brothers",08N,US,4017.500N,07619.733W,167.6m,2,68,823.0m,"122.900","08N, RW width: 120, CTAF: 122.9, Fuel: 100LL",,
+"Keymar",MD42,US,3937.167N,07713.650W,133.2m,2,50,571.5m,"121.250","Private, MD42, RW width: 120",,
+"Kingsdale",PA23,US,3943.617N,07706.717W,181.4m,2,30,627.9m,"121.250","Private, PA23, RW width: 100",,
+"Krens Farm",14VA,US,3913.733N,07744.800W,240.8m,2,10,579.1m,"125.225","Private, 14VA, RW width: 50",,
+"Krout",KROUT,US,4038.200N,07729.017W,182.9m,0,,,,"RW width: 125",,
+"Kutztown",KUTZTOWN,US,4030.200N,07547.233W,156.1m,0,,,,"RW width: 240",,
+"Lake Heritage Dam",LKHRTGDM,US,3947.983N,07711.600W,134.1m,1,,,,"Turn Point, #23",,
+"Lamberson",51PA,US,3953.000N,07704.983W,164.6m,2,60,701.0m,"121.250","Private, 51PA, RW width: 100",,
+"Lancaster",LNS,US,4007.300N,07617.767W,122.8m,5,77,1645.3m,"120.900","LNS, RW width: 150, ATIS: 125.675, Tower: 120.9, UNICOM: 122.95, Fuel: 100LL",,
+"Laura's Landing",22MD,US,3935.217N,07738.700W,167.6m,2,130,359.7m,"124.875","Private, 22MD, RW width: 40",,
+"Lazy B Ranch",0P8,US,4001.350N,07649.000W,137.2m,2,47,792.5m,"122.900","Private, PS08, RW width: 100, CTAF: 122.9",,
+"Leesburg Executive",JYO,US,3904.683N,07733.450W,118.6m,5,171,1676.4m,"122.975","JYO, RW width: 100, UNICOM: 122.975, Fuel: 100LL",,
+"Level Acres Farm",PA84,US,3957.250N,07654.567W,159.4m,2,90,701.0m,,"Private, PA84, RW width: 100",,
+"Lineboro",LINEBORO,US,3943.133N,07650.650W,210.3m,1,,,,"Turn Point, #24",,
+"Little Britain",LTTLBRTN,US,3947.467N,07608.500W,143.3m,1,,,,"Turn Point, #25, 10/28 18T, RW width: 100",,
+"Lockings",LOCKINGS,US,3945.817N,07803.650W,621.8m,1,,,,"Turn Point, #26",,
+"Lost Acres",8PN0,US,3956.183N,07737.000W,222.5m,2,17,548.6m,,"Turn Point, #27, Private, 8PN0, 01/19 18T, RW width: 100, Fuel: 100LL",,
+"Luray",LUA,US,3840.017N,07830.033W,274.9m,5,44,944.9m,"122.800","Turn Point, #108, LUA, 04/22 31A, RW width: 75, UNICOM: 122.8, Fuel: 100LL",,
+"Lynch's Landing",MD61,US,3943.467N,07604.233W,155.4m,2,60,365.8m,"126.250","Private, MD61, RW width: 100",,
+"M.R.P",MRP,US,3935.300N,07711.233W,152.4m,0,,,,"RW width: 75",,
+"Manor Knoll Use",MNRKNLLS,US,4001.250N,07625.433W,134.1m,0,,,,"RW width: 100",,
+"Manor Landing",9PS8,US,3948.783N,07717.700W,170.7m,2,60,609.6m,"121.250","Private, 9PS8, RW width: 100",,
+"Market Garden",MRKTGRDN,US,3957.667N,07706.017W,182.9m,0,,,,"RW width: 100",,
+"Marsh Creek",8PN9,US,3949.317N,07717.517W,161.5m,2,40,457.2m,"121.250","Private, 8PN9, RW width: 150",,
+"Marsteller",MARSTLLR,US,3944.000N,07631.983W,237.7m,0,,,,"RW width: 100",,
+"Martinsburg",MRB,US,3923.933N,07759.683W,169.8m,5,79,2133.6m,"124.300","Turn Point, #28, MRB, 08/26 70A, RW width: 150, Tower: 124.3, UNICOM: 122.95, Fuel: 100LL",,
+"Mason Dixon",MASONDXN,US,3933.633N,07737.933W,173.7m,1,,,,"Turn Point, #29",,
+"Massanutten Ski",MSSNTTNS,US,3823.550N,07846.217W,890.6m,1,,,,"Turn Point, #107",,
+"Masser",67PN,US,4038.000N,07635.817W,219.5m,2,100,640.1m,"127.575","Private, 67PN, RW width: 100",,
+"Mathna",2PS3,US,4001.000N,07702.483W,149.4m,2,60,548.6m,,"Private, 2PS3, RW width: 100",,
+"Mayberry Run",1MD8,US,3940.967N,07705.833W,176.8m,2,60,579.1m,"121.250","Private, 1MD8, RW width: 100",,
+"McCardle Farm",PS11,US,4038.717N,07733.317W,182.9m,2,50,548.6m,"123.850","Private, PS11, RW width: 100",,
+"McConnellsburg",MCCNNLLS,US,3954.950N,07757.400W,652.3m,1,,,,"Turn Point, #30",,
+"McGinness",MCGINNSS,US,4001.500N,07629.233W,101.8m,0,,,,"RW width: 120",,
+"Memmi",0PN6,US,4010.133N,07759.550W,346.9m,2,45,527.3m,,"Private, 0PN6, RW width: 100",,
+"Metzler",METZLER,US,4010.000N,07623.983W,128.0m,0,,,,"RW width: 100",,
+"Michaels Farms",WV17,US,3923.600N,07809.350W,155.4m,2,10,609.6m,"124.850","Private, WV17, RW width: 60",,
+"Middletown",MIDDLTWN,US,3926.617N,07732.733W,164.6m,1,,,,"Turn Point, #31",,
+"Mifflin County",RVL,US,4040.383N,07738.000W,249.6m,5,59,1524.3m,"122.700","Turn Point, #32, RVL, 06/24 50A, RW width: 75, UNICOM: 122.7, Fuel: 100LL",,
+"Mifflintown",P34,US,4036.067N,07724.300W,166.1m,5,80,803.1m,"122.800","P34, RW width: 50, UNICOM: 122.8",,
+"Millard",MILLARD,US,4019.033N,07632.183W,147.8m,0,,,,"RW width: 50",,
+"Mills Brothers",05PS,US,4008.083N,07751.083W,361.2m,2,60,652.3m,,"Private, 05PS, RW width: 100",,
+"Mont Alto",MONTALTO,US,3950.033N,07729.750W,667.5m,1,,,,"Turn Point, #33",,
+"Mount Holly",MT HOLLY,US,4005.800N,07712.450W,445.0m,1,,,,"Turn Point, #34",,
+"Muir Army Airfield",MUI,US,4026.083N,07634.167W,149.0m,5,70,1209.1m,"126.200","Private, Military, MUI, RW width: 100, Tower: 126.2",,
+"Mulberry Run",VA17,US,3902.150N,07823.533W,249.9m,2,60,609.6m,,"Turn Point, #115, Private, VA17, RW width: 75",,
+"Needwood Farm",WV21,US,3919.833N,07747.683W,134.1m,2,20,609.6m,"125.225","Private, WV21, RW width: 75",,
+"Neiderer",PA55,US,4013.000N,07706.983W,134.1m,2,90,426.7m,,"Private, PA55, RW width: 200",,
+"New Bloomfield",0PN4,US,4024.767N,07714.483W,292.6m,3,70,152.4m,,"Private, Ultralight Field, 0PN4, RW width: 100",,
+"New Market",8W2,US,3839.333N,07842.483W,297.2m,5,63,883.9m,"122.800","Turn Point, #102, 8W2, 06/24 29A, RW width: 60, UNICOM: 122.8, Fuel: 100LL",,
+"Oehda",01VA,US,3907.500N,07755.500W,152.4m,2,30,457.2m,"124.850","Private, 01VA, RW width: 60",,
+"Orange County",OMH,US,3814.833N,07802.733W,141.4m,5,75,975.4m,"122.800","Private, OMH, RW width: 75, UNICOM: 122.8, Fuel: 100LL",,
+"Pembroke Farm",6MD4,US,3943.167N,07612.500W,115.8m,2,130,670.6m,,"Private, 6MD4, RW width: 50",,
+"Penn Valley",SEG,US,4049.233N,07651.833W,137.2m,5,170,1158.2m,"122.700","SEG, RW width: 75, UNICOM: 122.7, Fuel: 100LL",,
+"Pennfield Farm",44PA,US,4051.000N,07736.983W,365.8m,2,80,640.1m,"123.850","Private, 44PA, RW width: 100",,
+"Penns Cave",N74,US,4053.417N,07736.150W,384.0m,5,70,762.0m,"122.800","N74, RW width: 40, UNICOM: 122.8",,
+"Pine Grove Furnace",PNGRVFRN,US,4001.983N,07718.267W,267.3m,1,,,,"Turn Point, #35",,
+"Potomac",W35,US,3941.617N,07810.467W,125.6m,5,110,1519.4m,"122.800","Turn Point, #36, W35, 11/29 50A, RW width: 70, CTAF: 122.9",,
+"Potomac Airpark",W35,US,3941.550N,07809.967W,125.6m,5,110,1519.4m,"122.800","W35, RW width: 70, CTAF: 122.9",,
+"Pretty Boy Dam",PRETTBDM,US,3937.167N,07642.433W,158.5m,1,,,,"Turn Point, #37",,
+"Reigle",58N,US,4017.250N,07634.650W,149.0m,5,127,594.4m,"122.800","58N, RW width: 40, UNICOM: 122.8, Fuel: 100LL",,
+"Reservoir",MD95,US,3928.917N,07652.900W,167.6m,2,40,457.2m,"121.250","Private, MD95, RW width: 60",,
+"Ridge Soaring",79N,US,4053.033N,07754.433W,248.4m,4,70,1012.5m,"122.900","79N, RW width: 150, CTAF: 122.9, Fuel: 100LL",,
+"River Bend",VA58,US,3854.367N,07826.667W,184.7m,2,140,807.7m,,"Private, VA58, RW width: 60",,
+"Rivers Edge",38WV,US,3919.517N,07825.533W,246.9m,2,60,548.6m,,"Private, 38WV, RW width: 50",,
+"Roadcap",37PA,US,4047.300N,07706.367W,222.8m,2,90,762.0m,,"Private, 37PA, RW width: 100",,
+"Rocktop",PA58,US,3958.500N,07733.467W,234.7m,2,130,548.6m,,"Private, PA58, RW width: 100, Fuel: 100LL",,
+"Rover",PA31,US,4017.000N,07632.367W,152.4m,2,100,655.3m,,"Private, PA31, RW width: 100",,
+"Roxbury",ROXBURY,US,4008.283N,07740.300W,310.9m,1,,,,"Turn Point, #38",,
+"Sauers-Haven",4PA1,US,4053.033N,07658.800W,179.8m,2,90,365.8m,"119.175","Private, 4PA1, RW width: 100",,
+"Schadels",1PA9,US,4040.000N,07640.983W,213.4m,2,90,411.5m,"119.175","Private, 1PA9, RW width: 110",,
+"Schrenkel",PN30,US,4015.767N,07806.150W,365.8m,2,170,670.6m,,"Private, PN30, RW width: 75",,
+"Schulteis",3PN0,US,3957.617N,07715.550W,207.3m,2,80,457.2m,,"Private, 3PN0, RW width: 100",,
+"Schuylkill County",ZER,US,4042.383N,07622.383W,528.5m,5,43,1400.3m,"122.800","ZER, RW width: 75, UNICOM: 123.075, Fuel: 100LL",,
+"Scott",VA61,US,3915.833N,07739.433W,161.2m,2,10,746.8m,"125.225","Private, VA61, RW width: 50",,
+"Shangri La",SHANGRIL,US,4041.133N,07728.483W,231.6m,0,,,,"RW width: 100",,
+"Sheepshead",SHEEPSHD,US,4033.883N,07644.800W,185.9m,0,,,,"RW width: 100",,
+"Shelley",SHELLEY,US,4040.867N,07709.717W,228.6m,0,,,,"RW width: 100",,
+"Shenandoah",SHD,US,3815.833N,07853.783W,366.1m,5,47,1828.8m,"123.000","Turn Point, #105, SHD, 05/23 150A, RW width: 150, UNICOM: 123.0, Fuel: 100LL",,
+"Shippensburg",SHPPNSBR,US,4003.500N,07727.733W,231.6m,1,,,,"Turn Point, #39, 07/25 23T, RW width: 170",,
+"Shoestring Aviation Airfield",0P2,US,3947.683N,07638.833W,304.8m,3,63,304.8m,"122.900","Ultralight Field, 0P2, RW width: 150, CTAF: 122.9",,
+"Shreveport North",62PA,US,4002.167N,07659.733W,167.6m,2,60,792.5m,,"Private, 62PA, RW width: 70",,
+"Shulls",2PA8,US,4018.000N,07717.983W,195.1m,2,10,487.7m,,"Private, 2PA8, RW width: 80",,
+"Sky Bryce",VG18,US,3848.950N,07846.217W,385.0m,2,54,640.1m,,"Turn Point, #101, Private, W92, 05/23 22A, RW width: 50",,
+"Sky Classics",SKCLSSCS,US,4023.867N,07635.933W,152.4m,0,,,,"RW width: 100",,
+"Smoketown",S37,US,4002.450N,07612.267W,112.8m,5,100,731.5m,"123.050","Turn Point, #40, S37, 10/28 24A, RW width: 50, UNICOM: 123.05, Fuel: 100LL",,
+"Snook",PS06,US,4044.000N,07715.983W,216.4m,2,70,396.2m,"123.850","Private, PS06, RW width: 100",,
+"Spud View",18PN,US,4003.917N,07741.567W,223.4m,2,50,499.9m,,"Private, 18PN, RW width: 50",,
+"St John",4MD9,US,3928.833N,07645.633W,140.5m,2,20,792.5m,"121.250","Private, 4MD9, RW width: 120",,
+"Start Signal Knob",START SI,US,3857.667N,07819.883W,641.9m,1,,,,"Start Point, #109",,
+"Stolcrest",MD75,US,3920.500N,07718.217W,161.5m,2,45,182.9m,"124.875","Private, MD75, RW width: 200",,
+"Strasburg Quarry",STRSBRGQ,US,3902.333N,07818.250W,201.2m,1,,,,"Turn Point, #110",,
+"Sunbury",71N,US,4053.500N,07646.733W,137.2m,2,50,990.6m,"122.900","71N, RW width: 250, CTAF: 122.9",,
+"Suzie",8MD0,US,3923.000N,07701.050W,170.7m,2,20,544.1m,"121.250","Private, 8MD0, RW width: 50",,
+"Tallman East",TALLMANE,US,4035.500N,07630.867W,256.6m,0,,,,"RW width: 100",,
+"Tallman West",TALLMANW,US,4024.333N,07656.400W,146.3m,0,,,,"RW width: 100",,
+"Taneytown",TANEYTWN,US,3939.333N,07710.350W,155.4m,1,,,,"Turn Point, #41",,
+"The Grass Patch",VA62,US,3915.550N,07739.433W,161.5m,2,50,670.6m,"125.225","Private, VA62, RW width: 75",,
+"Thomas",THOMAS,US,4022.667N,07721.917W,248.4m,0,,,,"RW width: 100",,
+"Thompsontown",THMPSNTW,US,4033.317N,07714.233W,121.9m,1,,,,"Turn Point, #42",,
+"Three J",MD56,US,3934.133N,07707.283W,155.4m,2,30,356.6m,"121.250","Private, MD56, RW width: 36",,
+"Timber Ridge",VA46,US,3917.767N,07821.733W,312.1m,2,90,823.0m,"124.850","Private, VA46, RW width: 80",,
+"Tinsley",TINSLEY,US,3931.000N,07643.983W,121.9m,0,,,,"RW width: 100",,
+"Union Bridge",UNIONBRG,US,3933.717N,07710.617W,121.9m,1,,,,"Turn Point, #43",,
+"University Park",UNV,US,4050.950N,07750.917W,377.6m,5,64,2042.5m,"128.475","UNV, RW width: 150, ATIS: 127.65, Tower: 128.475, UNICOM: 122.95, Fuel: 100LL",,
+"Upperville",2VG2,US,3858.300N,07752.183W,167.9m,5,130,1554.5m,"122.725","Private, 2VG2, RW width: 100, UNICOM: 122.725",,
+"Vogelsong",VOGELSNG,US,4007.717N,07658.167W,179.8m,0,,,,"RW width: 100",,
+"Waggoners Gap",WGGNRSGP,US,4016.567N,07716.767W,450.8m,1,,,,"Turn Point, #47",,
+"Wagner",1PA4,US,4033.150N,07737.200W,158.5m,2,50,574.5m,"123.850","Private, 1PA4, RW width: 100",,
+"Walters",0MD6,US,3922.867N,07706.350W,228.6m,2,50,548.6m,"124.875","Private, 0MD6, RW width: 60",,
+"Waltz",34PA,US,3945.633N,07711.583W,165.2m,2,170,518.2m,"121.250","Private, 34PA, RW width: 100",,
+"Waredaca Farm",WARDCFRM,US,3913.833N,07705.000W,161.5m,0,,,,"RW width: 50",,
+"Warrenton Airpark",7VG0,US,3839.333N,07747.233W,134.7m,2,40,670.6m,,"Private, 7VG0, RW width: 70",,
+"Warrenton Fauquier",HWY,US,3835.183N,07742.633W,102.4m,5,149,1524.0m,"122.700","HWY, RW width: 100, UNICOM: 122.7, Fuel: 100LL",,
+"White Post",3VA7,US,3903.750N,07805.483W,185.9m,2,40,609.6m,,"Turn Point, #112, Private, 3VA7, 04/22 20T, RW width: 75",,
+"William T. Piper",LHV,US,4108.133N,07725.333W,169.5m,5,93,1160.1m,"122.800","LHV, RW width: 100, UNICOM: 122.8, Fuel: 100LL",,
+"Williamsport",WLLMSPRT,US,3936.000N,07750.000W,109.7m,1,,,,"Turn Point, #44",,
+"Winchester",OKV,US,3908.883N,07809.167W,221.6m,5,144,1676.4m,"122.700","Turn Point, #45, OKV, 14/32 55A, RW width: 100, UNICOM: 122.7, Fuel: 100LL",,
+"Windy Hill",WINDYHLL,US,4005.100N,07832.850W,494.4m,0,,,,"RW width: 125",,
+"Woodbine",MD78,US,3923.000N,07704.217W,219.5m,4,30,502.9m,"128.275","Private, MD78, RW width: 100",,
+"Woodsboro",WOODSBOR,US,3930.000N,07718.600W,109.7m,1,,,,"Turn Point, #46",,
+"York",THV,US,3954.733N,07652.183W,146.3m,5,166,1581.3m,"123.000","Turn Point, #48, THV, 17/35 52A, RW width: 100, UNICOM: 123.0, Fuel: 100LL",,
+"Yost Use",8PA6,US,4019.800N,07710.633W,170.7m,2,10,472.4m,,"Private, 32PA, RW width: 150",,
+"Ziggy's",ZIGGYS,US,4051.000N,07754.333W,320.0m,0,,,,"RW width: 90",,
 -----Related Tasks-----
